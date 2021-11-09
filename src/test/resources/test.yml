@@ -1,0 +1,10 @@
+!!ControlGroup
+name: myGroup
+controls:
+  - !!Button
+    name: button1
+    size: 10
+  - !!Knob
+    name: knob1
+    maxValue: 11
+    size: 7
